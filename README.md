@@ -1,3 +1,3 @@
-Chat System, workd on python2
+## Chat System, workd on python2
 
-Use command : "python2 chatServer_Clientside.py" --helpfor usage of the program
+Use command : ``` python2 chatServer_Clientside.py  --help ```for usage of the program
