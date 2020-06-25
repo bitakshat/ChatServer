@@ -1,3 +1,4 @@
-## Chat System, workd on python2
+## Chat System, works on python2
 
-Use command : ``` python2 chatServer_Clientside.py  --help ```for usage of the program
+Use command : step 1: ``` python2 chatServer_Serverside.py [ip] [port no]```
+            : step 2: ``` python2 charServer_Clientside.py [ip] [port no]``` 
